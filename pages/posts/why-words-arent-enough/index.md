@@ -16,6 +16,7 @@ image:
     who I can picture but can't name quite yet.
 ---
 ![featured](featured.jpg)
+<img src="featured.jpg" alt="peacock">
 From Madeleine Thein at NYRB ([https://www.nybooks.com/articles/2020/10/08/du-fu-li-bai-poems/):](https://www.nybooks.com/articles/2020/10/08/du-fu-li-bai-poems/)
 
 "the incommensurability of Chinese (logographic) and English (alphabetic) written systems begins the moment a mark is made. Chinese ideograms are composed of strokes, and each of the brushstrokes references others. Cheng gives this line from Wang Wei as an example, followed by its literal translation:
