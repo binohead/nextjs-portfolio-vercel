@@ -7,9 +7,11 @@ draft: false
 featured: true
 ---
 
+import Image from 'next/image'
+
 <Image
-  src="featured.jpg"
-  alt="peacock"
+  src="/images/featured.jpg"
+  alt="Photo"
   width={1125}
   height={750}
   priority
