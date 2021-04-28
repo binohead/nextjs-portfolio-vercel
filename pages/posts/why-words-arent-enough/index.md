@@ -7,8 +7,17 @@ draft: false
 featured: true
 ---
 
-<Image src="/featured.jpg" alt="Nextra">
-From Madeleine Thein at NYRB ([https://www.nybooks.com/articles/2020/10/08/du-fu-li-bai-poems/):](https://www.nybooks.com/articles/2020/10/08/du-fu-li-bai-poems/)
+import Image from 'next/image'
+
+<Image
+  src="/images/photo2.jpg"
+  alt="Photo"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
+[Unsplash ↗ ](https://unsplash.com/photos/WeYamle9fDM)
 
 "the incommensurability of Chinese (logographic) and English (alphabetic) written systems begins the moment a mark is made. Chinese ideograms are composed of strokes, and each of the brushstrokes references others. Cheng gives this line from Wang Wei as an example, followed by its literal translation:
 
