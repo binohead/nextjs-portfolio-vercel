@@ -5,18 +5,8 @@ date: 2020-10-31T11:25:56.838Z
 summary: A passage about Chinese characters triggers cool insights on translatability
 draft: false
 featured: true
-header:
-  caption: "Franklin's Gull at Black Rock Beach"
-  image: "featured.jpg"
-image:
-  filename: featured.jpg
-  focal_point: Smart
-  preview_only: false
-  caption: The multicomponent display of the peacock. Photo by a former student,
-    who I can picture but can't name quite yet.
 ---
-![featured](featured.jpg)
-<img src="featured.jpg" alt="peacock">
+
 <Image src="/featured.jpg" alt="Nextra">
 From Madeleine Thein at NYRB ([https://www.nybooks.com/articles/2020/10/08/du-fu-li-bai-poems/):](https://www.nybooks.com/articles/2020/10/08/du-fu-li-bai-poems/)
 
