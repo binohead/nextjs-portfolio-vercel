@@ -5,6 +5,9 @@ date: 2020-10-31T11:25:56.838Z
 summary: A passage about Chinese characters triggers cool insights on translatability
 draft: false
 featured: true
+header:
+  caption: "Franklin's Gull at Black Rock Beach"
+  image: "featured.jpg"
 image:
   filename: featured.jpg
   focal_point: Smart
